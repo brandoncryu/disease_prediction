@@ -1,2 +1,6 @@
 data/
 .DS_Store
+.ipynb_checkpoints/
+admissions_akf_sample.pkl
+chartevents_final.pkl
+lab_events_final.pkl
