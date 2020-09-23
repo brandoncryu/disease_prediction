@@ -71,22 +71,6 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 5,
-   "metadata": {},
-   "outputs": [],
-   "source": [
-    "# from sklearn import preprocessing\n",
-    "# le = preprocessing.LabelEncoder()\n",
-    "# hadm_features['ethnicity'] = le.fit_transform(hadm_features['ethnicity'])\n",
-    "# hadm_features['gender'] = le.fit_transform(hadm_features['gender'])\n",
-    "\n",
-    "# from sklearn.preprocessing import StandardScaler\n",
-    "# scaler = StandardScaler()\n",
-    "# hadm_features['age'] = scaler.fit_transform(hadm_features['age'].values.reshape(-1, 1))"
-   ]
-  },
-  {
-   "cell_type": "code",
    "execution_count": 6,
    "metadata": {},
    "outputs": [],
